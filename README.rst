@@ -2,10 +2,10 @@
 Official OSM pacakge modified to work in python3 ros noetic env.
 
 
-##link to original Repo
-!Click Here[https://github.com/ros-geographic-info/open_street_map]
+## link to original Repo
+https://github.com/ros-geographic-info/open_street_map
 
-##Official Readme below
+## Official Readme below
 
 Overview
 ========
